@@ -2310,19 +2310,18 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!--// Youness Atif //-->
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/ynstf">
-                <img src="https://youness-atif.vercel.app/static/imgs/avatari.png" width="50">
+                <img src="https://youness-atif.vercel.app/static/imgs/avatari.png" width="80">
                 <br>
                 <h2>Youness ATIF</h2>
             </a>
-            <br>
+            <br>            
             <table>
-                <tr>
-
+                <tr> 
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/ynstf/">
@@ -2330,8 +2329,7 @@
                         </a>
                     </td>
                     <!--// LINKED IN //-->
-
-                    <!-- FACEBOOK -->
+        	        <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/ynstf">
                             <img src="./images/facebook-logo.png" width="30">
@@ -2345,7 +2343,6 @@
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
-
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/ynstf">
@@ -2354,8 +2351,8 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>
+            </table>            
         </td>
     </tr>
-
+    <!--// Youness Atif //-->
 </table>
